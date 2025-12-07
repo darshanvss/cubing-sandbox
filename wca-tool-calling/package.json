@@ -3,6 +3,7 @@
 		"@ai-sdk/google": "^2.0.44",
 		"ai": "^5.0.108",
 		"dotenv": "^16.4.5",
+		"tsx": "^4.21.0",
 		"zod": "^4.1.13"
 	},
 	"devDependencies": {
